@@ -3,7 +3,7 @@
 
 ## Sobre esta prueba
 
-Esta prueba busca poner a prueba los conocimientos de nuestros candiatos a font-end developer, los cuales deben demostrar sus habilidades trabajando con: 
+Esta prueba busca poner a prueba los conocimientos de nuestros candidatos a front-end developer, los cuales deben demostrar sus habilidades trabajando con: 
 
 -Laravel
 -VUE
