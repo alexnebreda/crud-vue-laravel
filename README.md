@@ -12,7 +12,7 @@ Esta prueba busca poner a prueba los conocimientos de nuestros candidatos a fron
 -CSS
 -Vuetify
 
-La prueba consta de un proyecto creado con el framework Laravel como estructura principal, el cual tiene integrado VUE para manejar toda la logina de front. 
+La prueba consta de un proyecto creado con el framework Laravel como estructura principal, el cual tiene integrado VUE para manejar toda la logica de front. 
 
 El objetivo es crear un un crud que permitar Crear, leer y editar usuarios, asi como filtrar a los mismos por id y rango de fecha de creacion.
 
