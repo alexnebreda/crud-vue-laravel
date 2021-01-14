@@ -8,6 +8,7 @@ require('./bootstrap');
 
 window.Vue = require('vue');
 
+import MultiFiltersPlugin from '../plugins/MultiFilters'
 import vuetify from '../plugins/vuetify' // path to vuetify export
 
 /**
@@ -30,6 +31,8 @@ Vue.component('example-component', require('./components/ExampleComponent.vue').
  */
 
 const app = new Vue({
+    MultiFiltersPlugin,
     vuetify,
     el: '#app',
+    
 });
